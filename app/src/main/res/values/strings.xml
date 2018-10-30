@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WebServiceTCC</string>
+    <string name="title_home">Roteiro</string>
+    <string name="title_dashboard">Emergências</string>
+    <string name="title_notifications">Serviços</string>
+
+    <string name="Nome">Nome</string>
+    <string name="Telefone">Telefone</string>
+    <string name="endRua">Rua</string>
+    <string name="endNum">Número</string>
+    <string name="endBairro">Bairro</string>
+    <string name="endComplemento">Complemento</string>
+    <string name="tipoServico">Tipo</string>
+
+
+    <string-array name="tiposServico">
+        <item>Selecione o tipo</item>
+        <item>Pronto Atendimento</item>
+        <item>Coordenadorias</item>
+        <item>Atendimento psicológico</item>
+        <item>Atendimento social</item>
+        <item>Núcleos de Atendimento/ONG</item>
+    </string-array>
+    <string name="title_activity_teste">Teste</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_roteiro">RoteiroActivity</string>
+    <string name="title_activity_emergencia">EmergenciaActivity</string>
+</resources>
